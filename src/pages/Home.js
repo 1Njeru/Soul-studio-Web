@@ -75,7 +75,7 @@ const Home = () => {
     </li>
 
     <li className='hover:scale-105 hover:text-green-600'>
-    <a href='http://www.whatsapp.com' target='_blank' rel="noreferrer">
+    <a href='https://wa.me/qr/TRLUNZXNS35ZL1' target='_blank' rel="noreferrer">
     <ImWhatsapp />
     </a>
     </li>
