@@ -18,7 +18,7 @@ const Contact = () => {
     <div className=' mx-auto lg:h-screen bg-gray-500 grid justify-center
      items-center'>
     <div className=' lg:flex-row grid items-center justify-center
-     lg:text-left pt-16'>
+     lg:text-left pt-16 pb-8'>
 
     {/*text & form*/}
 
