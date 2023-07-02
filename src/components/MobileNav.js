@@ -26,7 +26,7 @@ const MobileNav = () => {
     const [openMenu, setOpenMenu] = useState(false);
 
   return (
-    <nav className='text-tertiary xl:hidden '>
+    <nav className='text-tertiary sm:hidden '>
     {/* nav open button */}
     <div onClick={()=> setOpenMenu(true)} className='text-3xl cursor-pointer'> 
     <CgMenuRight />
