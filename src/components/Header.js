@@ -1,6 +1,6 @@
 import React from 'react'
 import Socials from './Socials'
-import MobileNav from './MobileNav'
+
 
 //import link
 import { Link } from 'react-router-dom'
@@ -47,7 +47,7 @@ const Header = () => {
 
 
      {/*mobile nav */}
-     <MobileNav />
+  
 
     
      </header>
