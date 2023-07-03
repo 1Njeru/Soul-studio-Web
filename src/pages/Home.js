@@ -29,7 +29,7 @@ const Home = () => {
     exit={{opacity: 0}}
     transition={{transition1}}
     className='section'>
-    <div className='pl-4 pr-4 mx-auto h-screen relative 
+    <div className='pl-3 pr-3 mx-auto h-screen relative 
      grid justify-center bg-gray-500 '>
     <div className='grid grid-col items-center lg:flex-row h-full 
      text-center lg:text-left bg-gray-500 
@@ -42,7 +42,7 @@ const Home = () => {
     transition={{transition1}}
     className='flex flex-col lg:items-start'>
     <h1 className='h1 font-partial text-4xl flex justify-center
-    '>PHOTOGRAPHY & FILM MAKING</h1>
+    '>PHOTOGRAPHY <br /> & FILM MAKING</h1>
     <p className='pt-4 font-primary font-semibold text-3xl'>Nairobi, Fedha-Tasia Complex
     </p>
 
