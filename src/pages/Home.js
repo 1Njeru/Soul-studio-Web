@@ -29,7 +29,7 @@ const Home = () => {
     exit={{opacity: 0}}
     transition={{transition1}}
     className='section'>
-    <div className='sm:container mx-auto h-screen relative 
+    <div className='pl-4 pr-4 mx-auto h-screen relative 
      grid justify-center bg-gray-500 '>
     <div className='grid grid-col items-center lg:flex-row h-full 
      text-center lg:text-left bg-gray-500 
