@@ -57,7 +57,7 @@ const Home = () => {
     className='flex gap-5 pt-7 justify-center text-2xl' >
 
     <li className='hover:scale-95 hover:text-blue-600'>
-    <a href='http://www.facebook.com' target='_blank rel="noreferrer"'>
+    <a href='https://www.facebook.com/soulstudioke' target='_blank rel="noreferrer"'>
     <ImFacebook />
     </a>
     </li>
