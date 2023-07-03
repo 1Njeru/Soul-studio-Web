@@ -32,7 +32,7 @@ const Home = () => {
     <div className=' mx-auto h-screen relative 
      grid justify-center bg-gray-500 '>
     <div className='grid grid-col items-center lg:flex-row h-full 
-     text-center lg:text-left bg-gray-500
+     text-center lg:text-left bg-gray-500 pl-6 pr-6
     '>
     {/*text */}
     <motion.div 
