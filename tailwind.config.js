@@ -8,7 +8,7 @@ module.exports = {
       tertiary: 'Delius',
     },
     screens: {
-      sm: '480px',
+      sm: '360px',
       md: '768px',
       lg: '1024px',
       xl: '1192px',
