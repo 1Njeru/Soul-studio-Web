@@ -56,13 +56,13 @@ grid justify-center bg-gray-500 Lg:pt-6 pt-6 lg:pb-20'>
 
 <Carousel swipeable={true}
 draggable={true}
-transitionDuration={2000}
+transitionDuration={3000}
 showDots={false} 
 responsive={responsive}   
 ssr={true} // means to render carousel on server-side.
 infinite={true}
 autoPlay={true}
-autoPlaySpeed={3000}
+autoPlaySpeed={6000}
 keyBoardControl={true}
 customTransition="all 1"
 containerClass="carousel-container"
